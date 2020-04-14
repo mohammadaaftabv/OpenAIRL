@@ -1,1 +1,1 @@
-Learning RL with GYm
+This repo consits of my inplementation of various algorithms in Reinforcement Learning like Value Iteration,Q-learning,Double Q-learning,Deep Q-Network,Actor-Critc Methods on various openAI Gym environments
